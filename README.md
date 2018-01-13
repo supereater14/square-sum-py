@@ -1,5 +1,6 @@
 # square-sum-py
 A Python program to solve Matt Parker's square-sum problem.
+
 By Alec Hitchiner
 
 For details of the problem itself, [click here](https://www.youtube.com/watch?v=G1m7goLCJDY)
